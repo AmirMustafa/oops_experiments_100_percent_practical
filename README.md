@@ -4,7 +4,6 @@ PHP - Complete object oriented programming concepts
 ## About 
 This files contains all the basic concepts of OOPS PHP that one should be familiar with
 
-<br/><br/><br/>
 ## License
 
 (The MIT License)
